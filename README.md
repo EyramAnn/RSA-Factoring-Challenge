@@ -1,3 +1,4 @@
-* RSA-Factoring-Challenge*
+* RSA-FACTORING CHALLENGE*
 
-RSA AND FACTORS ON ALGORITHM AND SCRIPTING
+
+RSA and Factors on Algorithm and Scripting.
