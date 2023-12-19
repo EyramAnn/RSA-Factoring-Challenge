@@ -19,7 +19,6 @@ check_factor()
                 num2=$3
         fi
 
-
         num1=$2
         num=$(echo "$1" | tr ':' '=')
 
@@ -35,7 +34,7 @@ check_factor()
 
 if [ $# -ne 1 ]
 then
-        echo 'Usage: factors <file>'
+        echo 'Usage: rsa <file>'
         exit 1
 else
 
